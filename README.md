@@ -16,3 +16,8 @@
   # fill the link with this url
     #registration field "http://localhost:5000/api/users/register"
     #login field "http://localhost:5000/api/users/login"
+    
+#connect mongodb
+  #open your mongodb
+  #enter the url
+    mongodb+srv://root:root@cluster0-o8cca.mongodb.net/test
